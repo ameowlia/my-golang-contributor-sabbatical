@@ -4,15 +4,22 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+👋 **Hi, I'm Amelia.** I'm a staff software engineer at VMware where I work on
+networking things in Golang. I recently had a three month sabbatical approved
+where I will contribute to Golang full-time.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+👩‍💻 **I like networking things.** I've used Golang professionally for
+over 5 years and currently maintain an HTTP reverse-proxy and a CNI plugin
+among other networking things for Tanzu Application Service (TAS née PAS née
+ERT). Additionally I am the Networking Project Lead that oversees those
+projects for the open source Cloud Foundry Foundation.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+✏️  **This blog will be a record of my sabbatical.** I plan on using this blog
+as a way to keep notes for myself to keep me motivated and organized. If
+someone else finds it helpful too, that is just an added bonus.
 
+✨ **I love using emojis** to make written communication clearer, backpacking
+long distances, and pink.
 
-[jekyll-organization]: https://github.com/jekyll
+🐻 You can find me in the Gophers slack as @ameowlia.
+
