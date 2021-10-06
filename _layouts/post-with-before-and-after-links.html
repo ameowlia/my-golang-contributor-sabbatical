@@ -24,12 +24,12 @@ layout: post
 <hr>
 <div class="PageNavigation">
   {% if page.previous.url %}
-  <a class="prev" href="{{site.baseurl}}{{page.previous.url}}">&laquo; {{page.previous.title}}</a>
+    <a class="prev" href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a>
   {% else %}
     <a class="prev" ></a> <!-- to fix the first blog post -->
   {% endif %}
   {% if page.next.url %}
-    <a class="next" href="{{{site.baseurl}}{page.next.url}}">{{page.next.title}} &raquo;</a>
+    <a class="next" href="{{page.next.url}}">{{page.next.title}} &raquo;</a>
   {% endif %}
 </div>
 <hr>
@@ -38,12 +38,12 @@ layout: post
 <hr>
 <div class="PageNavigation">
   {% if page.previous.url %}
-    <a class="prev" href="{{{site.baseurl}}{page.previous.url}}">&laquo; {{page.previous.title}}</a>
+    <a class="prev" href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a>
   {% else %}
     <a class="prev" ></a> <!-- to fix the first blog post -->
   {% endif %}
   {% if page.next.url %}
-    <a class="next" href="{{{site.baseurl}}{page.next.url}}">{{page.next.title}} &raquo;</a>
+    <a class="next" href="{{page.next.url}}">{{page.next.title}} &raquo;</a>
   {% endif %}
 </div>
 <hr>
