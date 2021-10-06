@@ -23,7 +23,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   I am taking a 3 month sabbatical from my normal team to become a Golang contributor.
   I have been working in Golang professionally for over 5 years but haven't (yet!) contributed to Golang itself.
   This blog will catalog my self-directed meanderings workings towards my first Golang commits.
-url: "https://ameowlia.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://ameowlia.github.io/my-golang-contributor-sabbatical" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  ameowlia
 linkedin_username: ameliadowns
 
