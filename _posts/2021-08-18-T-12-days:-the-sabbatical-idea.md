@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-with-before-and-after-links
 title:  "T-12 Days: The Sabbatical Proposal"
 date:   2021-08-18 11:27:24 -0400
 categories: jekyll update
